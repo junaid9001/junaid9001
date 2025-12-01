@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Mohamed Junaid 👋
 
-<!--
-**junaid9001/junaid9001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a full-stack developer passionate about building efficient, scalable web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid9001&show_icons=true&theme=radical)
+
+---
+
+### 📬 Connect With Me
+📧 Email: **mohamedjunaid888@gmail.com**  
+
+
+---
+
+*Always learning. Always building.*
