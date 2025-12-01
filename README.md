@@ -3,7 +3,7 @@
 Full-Stack Web Developer experienced in building efficient and scalable web applications. Skilled in both frontend and backend development with knowledge of modern frameworks, databases, and development practices.
 
 ### Technologies
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
