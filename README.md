@@ -20,3 +20,5 @@ Go backend and cloud engineer. I build distributed systems, deploy them on AWS, 
 
 ### Contact
 [linkedin.com/in/junaid9001](https://linkedin.com/in/junaid9001) · mohamedjunaid888@gmail.com
+
+![](https://komarev.com/ghpvc/?username=junaid9001&color=blue)
